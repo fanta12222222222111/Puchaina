@@ -7,13 +7,14 @@
     body {
       margin: 0;
       padding: 0;
-      background: #fff0f5;
+      background-color: #fff0f5;
       font-family: 'Georgia', serif;
       color: #4a2c2a;
-      background-image: url('https://i.imgur.com/UuE5O4z.png'); /* fondo de rosas suaves */
+      background-image: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
+      background-attachment: fixed;
     }
 
     .carta {
