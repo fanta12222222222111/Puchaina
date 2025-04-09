@@ -5,7 +5,7 @@
   <title>Para mi amor</title>
   <style>
     body {
-      margin: 0;
+      margin: 0
       padding: 0;
       background-color: #fff0f5;
       font-family: 'Georgia', serif;
